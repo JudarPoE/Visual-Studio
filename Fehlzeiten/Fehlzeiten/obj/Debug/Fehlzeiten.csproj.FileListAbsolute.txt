@@ -1,0 +1,30 @@
+P:\SW-PRO\Fehlzeiten\Fehlzeiten\bin\Debug\Fehlzeiten.exe.config
+P:\SW-PRO\Fehlzeiten\Fehlzeiten\bin\Debug\Fehlzeiten.exe
+P:\SW-PRO\Fehlzeiten\Fehlzeiten\bin\Debug\Fehlzeiten.pdb
+P:\SW-PRO\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.csprojAssemblyReference.cache
+P:\SW-PRO\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.Form1.resources
+P:\SW-PRO\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.Properties.Resources.resources
+P:\SW-PRO\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.csproj.GenerateResource.cache
+P:\SW-PRO\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.csproj.CoreCompileInputs.cache
+P:\SW-PRO\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.exe
+P:\SW-PRO\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.pdb
+D:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.Form1.resources
+D:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.Properties.Resources.resources
+D:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.csproj.GenerateResource.cache
+D:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.csproj.CoreCompileInputs.cache
+D:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.exe
+D:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.pdb
+E:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.csprojAssemblyReference.cache
+E:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.Form1.resources
+E:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.Properties.Resources.resources
+E:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.csproj.GenerateResource.cache
+E:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.csproj.CoreCompileInputs.cache
+E:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.exe
+E:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.pdb
+E:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\bin\Debug\Fehlzeiten.exe.config
+E:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\bin\Debug\Fehlzeiten.exe
+E:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\bin\Debug\Fehlzeiten.pdb
+D:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\bin\Debug\Fehlzeiten.exe.config
+D:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\bin\Debug\Fehlzeiten.exe
+D:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\bin\Debug\Fehlzeiten.pdb
+D:\Fach - Programmieren\Fehlzeiten\Fehlzeiten\obj\Debug\Fehlzeiten.csprojAssemblyReference.cache
